@@ -32,8 +32,8 @@ Easily power your matrix **ON/OFF**, switch HDMI **inputs to outputs**, and moni
 
 ### 🔹 Option 1 — Install via HACS 🧠
 
-Simply click the **blue “Open My HACS Repository”** button above 🧠.
-This will automatically open HACS and add the **HDAnywhere MHUB (Local)** integration to your Home Assistant — no manual steps needed.
+Simply click the **blue “Open My HACS Repository”** button above.
+This will automatically open HACS and add the **HDAnywhere MHUB (Local)** integration to your Home Assistant — no manual steps needed.🧠
 
 Once added, install it from HACS, restart Home Assistant, and click the **Integrate HDAnywhere MHUB** button to finish setup.
 
