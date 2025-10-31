@@ -2,7 +2,6 @@
 
 [![Add to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=marsh4200&repository=hda_mhub&category=integration)
 <a href="https://my.home-assistant.io/redirect/config_flow_start/?domain=hda_mhub" target="_blank">
-  <img src="https://img.shields.io/badge/Click%20Here%20to%20Integrate-HDAnywhere%20MHUB-blue?style=for-the-badge&logo=home-assistant" alt="Integrate HDAnywhere MHUB">
 </a>
 
 ---
