@@ -1,0 +1,12 @@
+{
+  "domain": "hda_mhub",
+  "name": "HDAnywhere MHUB (Local)",
+  "version": "1.1.6",
+  "documentation": "https://github.com/marsh4200/hda_mhub",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@marsh4200"],
+  "iot_class": "local_polling",
+  "config_flow": true,
+  "integration_type": "hub"
+}
