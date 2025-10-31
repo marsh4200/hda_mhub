@@ -7,7 +7,10 @@
 ---
 
 ### Version: `1.1.4`
-**Author:** [@marsh4200](https://github.com/marsh4200)
+**Author:** [@marsh4200](https://github.com/marsh4200)  
+**In collaboration with:** [SMARTHOME 21](https://smarthome21.co.za)
+
+
 
 A lightweight, plug-and-play [Home Assistant](https://www.home-assistant.io/) custom integration for controlling your **HDAnywhere MHUB matrix system** over the local LAN API.
 
