@@ -23,7 +23,6 @@ Easily power your matrix **ON/OFF**, switch HDMI **inputs to outputs**, and moni
 ✅ **Power Control** — Turn the MHUB ON/OFF using a dedicated switch  
 🎛️ **Video Routing Buttons** — 16 one-touch buttons representing every input/output combination (Input 1–4 → Output A–D)  
    
-
 🔒 **All communication is local** — no internet access required for control or feedback.
 
 ---
