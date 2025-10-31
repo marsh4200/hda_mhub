@@ -22,9 +22,7 @@ Easily power your matrix **ON/OFF**, switch HDMI **inputs to outputs**, and moni
 
 ✅ **Power Control** — Turn the MHUB ON/OFF using a dedicated switch  
 🎛️ **Video Routing Buttons** — 16 one-touch buttons representing every input/output combination (Input 1–4 → Output A–D)  
-🧠 **Status Polling** — Automatically retrieves power and routing states via:  
-- `/api/data/0/`  
-- `/api/data/200/`  
+   
 
 🔒 **All communication is local** — no internet access required for control or feedback.
 
@@ -32,9 +30,9 @@ Easily power your matrix **ON/OFF**, switch HDMI **inputs to outputs**, and moni
 
 ## 🧩 Installation
 
-### 🔹 Option 1 — Install via HACS
+### 🔹 Option 1 — Install via HACS 🧠
 
-Simply click the **blue “Open My HACS Repository”** button above.
+Simply click the **blue “Open My HACS Repository”** button above 🧠.
 This will automatically open HACS and add the **HDAnywhere MHUB (Local)** integration to your Home Assistant — no manual steps needed.
 
 Once added, install it from HACS, restart Home Assistant, and click the **Integrate HDAnywhere MHUB** button to finish setup.
