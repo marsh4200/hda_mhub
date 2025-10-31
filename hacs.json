@@ -1,0 +1,7 @@
+{
+  "name": "HDAnywhere MHUB (Local)",
+  "content_in_root": false,
+  "render_readme": true,
+  "domains": ["hda_mhub"],
+  "homeassistant": "2023.6.0"
+}
