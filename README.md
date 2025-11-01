@@ -14,7 +14,7 @@
 
 A lightweight, plug-and-play [Home Assistant](https://www.home-assistant.io/) custom integration for controlling your **HDAnywhere MHUB matrix system** over the local LAN API.
 
-Easily power your matrix **ON/OFF**, switch HDMI **inputs to outputs**, and monitor state — all directly from your Home Assistant dashboard, with **no cloud dependency**.
+Easily power your matrix **ON/OFF**, switch HDMI **inputs to outputs**, — all directly from your Home Assistant dashboard, with **no cloud dependency**.
 
 ---
 
