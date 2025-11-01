@@ -6,7 +6,7 @@
 
 ---
 
-### Version: `1.1.4`
+### Version: `0.0.1`
 **Author:** [@marsh4200](https://github.com/marsh4200)  
 **In collaboration with:** [SMARTHOME 21](https://smarthome21.co.za)
 
