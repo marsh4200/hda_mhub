@@ -36,3 +36,12 @@ This will automatically open HACS and add the **HDAnywhere MHUB (Local)** integr
 
 Once added, install it from HACS, restart Home Assistant, and click the **Integrate HDAnywhere MHUB** button to finish setup.
 
+**Enter your MHUB details:**  
+- **IP Address:** Enter the local IP address of your HDAnywhere MHUB (for example `192.168.88.150`)  
+- **API Port:** Default is `80` unless changed in your MHUB’s settings  
+- Click **Submit** to complete setup  
+
+---
+
+> 💡 **Tip:** You can confirm your MHUB’s IP address from your router’s DHCP client list or by checking the MHUB app under **System Info → Network**.
+
